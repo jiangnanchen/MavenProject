@@ -1,0 +1,318 @@
+2018-10-22 22:03:59,755 INFO   Try to Open browser 
+2018-10-22 22:04:03,019 INFO  Browser is opened 
+2018-10-22 22:04:04,300 INFO  Baidu page is loaded 
+2018-10-22 22:04:07,301 INFO  Try to close browser 
+2018-10-22 22:04:07,564 INFO  Browser is closed 
+2018-10-22 22:08:49,272 INFO   Try to Open browser 
+2018-10-22 22:08:51,778 INFO  Browser is opened 
+2018-10-22 22:08:52,908 INFO  Baidu page is loaded 
+2018-10-22 22:08:55,909 INFO  Try to close browser 
+2018-10-22 22:08:56,174 INFO  Browser is closed 
+2018-10-25 22:18:39,657 INFO  Browser is opened,Type is: firefox 
+2018-10-25 22:18:45,062 INFO  Browser is opened,Type is: firefox 
+2018-10-25 22:18:53,804 INFO  Browser is opened,Type is: firefox 
+2018-10-25 22:20:08,364 INFO  Browser is opened,Type is: firefox 
+2018-10-25 22:20:13,823 INFO  Browser is opened,Type is: firefox 
+2018-10-25 22:20:22,536 INFO  Browser is opened,Type is: firefox 
+2018-10-25 22:22:02,861 ERROR Unable to open browser. 
+2018-10-25 22:22:02,862 ERROR The path to the driver executable must be set by the webdriver.ie.driver system property; for more information, see http://code.google.com/p/selenium/wiki/InternetExplorerDriver. The latest version can be downloaded from http://selenium-release.storage.googleapis.com/index.html 
+2018-10-25 22:23:40,818 INFO  Browser is opened,Type is: chrome 
+2018-10-25 22:23:47,152 INFO  Browser is opened,Type is: chrome 
+2018-10-25 22:23:56,713 INFO  Browser is opened,Type is: chrome 
+2018-10-25 22:34:48,485 INFO  Browser is opened,Type is: firefox 
+2018-10-25 22:34:53,976 INFO  Browser is opened,Type is: firefox 
+2018-10-25 22:35:02,696 INFO  Browser is opened,Type is: firefox 
+2018-10-25 22:35:07,532 INFO  Browser is opened,Type is: chrome 
+2018-10-25 22:35:13,871 INFO  Browser is opened,Type is: chrome 
+2018-10-25 22:35:23,526 INFO  Browser is opened,Type is: chrome 
+2018-10-25 22:41:46,159 INFO  Browser is opened,Type is: firefox 
+2018-10-25 22:41:51,586 INFO  Browser is opened,Type is: firefox 
+2018-10-25 22:42:00,413 INFO  Browser is opened,Type is: firefox 
+2018-10-25 22:42:05,567 INFO  Browser is opened,Type is: chrome 
+2018-10-25 22:42:12,089 INFO  Browser is opened,Type is: chrome 
+2018-10-25 22:42:21,894 INFO  Browser is opened,Type is: chrome 
+2018-10-27 10:42:00,510 INFO  Browser is opened,Type is: firefox 
+2018-10-27 10:42:30,716 ERROR Unable to locate element: {"method":"id","selector":"343der"}
+Command duration or timeout: 30.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf323ce037c5f92db6c1bba601c2ac43ad8', time: '2014-10-23 13:11:40'
+System info: host: 'GP9P0TFTYDRHH89', ip: '192.168.16.102', os.name: 'Windows Vista', os.arch: 'x86', os.version: '6.2', java.version: '1.6.0_13'
+Session ID: 578e046a-fab4-4c7d-9a4d-b10fd0584be0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=33.1.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}] 
+2018-10-27 10:56:07,027 INFO  Browser is opened,Type is: chrome 
+2018-10-27 10:56:13,533 INFO  Browser is opened,Type is: chrome 
+2018-10-27 10:56:23,348 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:01:56,434 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:02:02,844 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:02:12,493 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:05:54,827 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:06:01,278 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:06:10,930 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:12:30,642 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:12:37,060 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:12:46,719 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:18:32,087 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:19:06,101 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:19:25,581 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:20:27,767 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:20:34,258 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:21:11,843 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:24:38,188 INFO  Browser is opened,Type is: firefox 
+2018-10-27 11:25:08,379 ERROR Unable to locate element: {"method":"id","selector":"343der"}
+Command duration or timeout: 30.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf323ce037c5f92db6c1bba601c2ac43ad8', time: '2014-10-23 13:11:40'
+System info: host: 'GP9P0TFTYDRHH89', ip: '192.168.16.102', os.name: 'Windows Vista', os.arch: 'x86', os.version: '6.2', java.version: '1.6.0_13'
+Session ID: fb85cd5d-0ceb-4f55-affa-0bfac7f683ca
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=33.1.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}] 
+2018-10-27 11:27:30,830 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:27:37,289 INFO  Browser is opened,Type is: chrome 
+2018-10-27 11:27:47,043 INFO  Browser is opened,Type is: chrome 
+2018-10-28 10:45:26,280 INFO  Browser is opened,Type is: firefox 
+2018-10-28 10:47:54,048 INFO  Browser is opened,Type is: firefox 
+2018-10-28 10:49:39,500 INFO  Browser is opened,Type is: firefox 
+2018-10-28 10:49:41,467 INFO  Browser is opened,Type is: firefox 
+2018-10-28 10:49:41,608 INFO  Execute JS:arguments[0].setAttribute(arguments[1],arguments[2]); 
+2018-10-28 10:49:41,608 INFO  JS arg1:[Ljava.lang.Object;@159054d 
+2018-10-28 10:49:41,760 ERROR arguments[0].setAttribute is not a function
+Command duration or timeout: 141 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf323ce037c5f92db6c1bba601c2ac43ad8', time: '2014-10-23 13:11:40'
+System info: host: 'GP9P0TFTYDRHH89', ip: '192.168.16.102', os.name: 'Windows Vista', os.arch: 'x86', os.version: '6.2', java.version: '1.6.0_13'
+Session ID: 922e7f93-1c53-4d16-a3d3-acbb5bc36ac9
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=33.1.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}] 
+2018-10-28 10:51:01,675 INFO  Browser is opened,Type is: firefox 
+2018-10-28 10:51:01,786 INFO  Execute JS:arguments[0].setAttribute(arguments[1],arguments[2]); 
+2018-10-28 10:51:01,786 INFO  JS arg1:[Ljava.lang.Object;@1f217ec 
+2018-10-28 10:52:18,049 INFO  Browser is opened,Type is: firefox 
+2018-10-28 10:52:18,197 INFO  Execute JS:arguments[0].setAttribute(arguments[1],arguments[2]); 
+2018-10-28 10:52:18,197 INFO  JS arg1:[Ljava.lang.Object;@d3ade7 
+2018-10-28 11:04:38,937 INFO  Browser is opened,Type is: firefox 
+2018-10-28 11:07:25,120 INFO  Browser is opened,Type is: firefox 
+2018-10-28 11:07:48,559 INFO  Browser is opened,Type is: firefox 
+2018-10-28 11:08:08,449 INFO  Browser is opened,Type is: chrome 
+2018-10-28 11:09:17,723 INFO  Browser is opened,Type is: chrome 
+2018-10-28 11:13:10,369 INFO  Browser is opened,Type is: chrome 
+2018-10-28 11:14:02,576 INFO  Browser is opened,Type is: firefox 
+2018-10-28 11:14:48,984 INFO  Browser is opened,Type is: firefox 
+2018-10-28 11:14:49,124 INFO  nannan-Select opetion in drop down list byindex 
+2018-10-28 11:14:49,244 INFO  2nan--is select in drop down list:[[FirefoxDriver: firefox on WINDOWS (4910a442-07b3-4cb9-a0db-af2f271b4516)] -> id: menus_navlist] 
+2018-10-28 11:14:49,261 INFO  nannan-Select opetion in drop down list byvalue 
+2018-10-28 11:14:49,328 INFO  usersnan--is select in drop down list:[[FirefoxDriver: firefox on WINDOWS (4910a442-07b3-4cb9-a0db-af2f271b4516)] -> id: menus_navlist] 
+2018-10-28 11:14:49,356 INFO  nannan-Select opetion in drop down list byvisibletext 
+2018-10-28 11:14:49,433 INFO  商店设置nan--is select in drop down list:[[FirefoxDriver: firefox on WINDOWS (4910a442-07b3-4cb9-a0db-af2f271b4516)] -> id: menus_navlist] 
+2018-10-28 11:15:18,227 INFO  Browser is opened,Type is: chrome 
+2018-10-28 11:15:18,517 INFO  nannan-Select opetion in drop down list byindex 
+2018-10-28 11:15:18,582 INFO  2nan--is select in drop down list:[[ChromeDriver: chrome on WIN8 (0fd155a9e15fddc9da5d62e85754f1bc)] -> id: menus_navlist] 
+2018-10-28 11:15:18,587 INFO  nannan-Select opetion in drop down list byvalue 
+2018-10-28 11:15:18,624 INFO  usersnan--is select in drop down list:[[ChromeDriver: chrome on WIN8 (0fd155a9e15fddc9da5d62e85754f1bc)] -> id: menus_navlist] 
+2018-10-28 11:15:18,631 INFO  nannan-Select opetion in drop down list byvisibletext 
+2018-10-28 11:15:18,668 INFO  商店设置nan--is select in drop down list:[[ChromeDriver: chrome on WIN8 (0fd155a9e15fddc9da5d62e85754f1bc)] -> id: menus_navlist] 
+2018-10-28 11:15:30,099 INFO  Browser is opened,Type is: chrome 
+2018-10-28 11:15:30,410 INFO  nannan-Select opetion in drop down list byindex 
+2018-10-28 11:15:30,471 INFO  2nan--is select in drop down list:[[ChromeDriver: chrome on WIN8 (3f842962cb2738e57e8e5947e10d4ebc)] -> id: menus_navlist] 
+2018-10-28 11:15:30,477 INFO  nannan-Select opetion in drop down list byvalue 
+2018-10-28 11:15:30,514 INFO  usersnan--is select in drop down list:[[ChromeDriver: chrome on WIN8 (3f842962cb2738e57e8e5947e10d4ebc)] -> id: menus_navlist] 
+2018-10-28 11:15:30,520 INFO  nannan-Select opetion in drop down list byvisibletext 
+2018-10-28 11:15:30,556 INFO  商店设置nan--is select in drop down list:[[ChromeDriver: chrome on WIN8 (3f842962cb2738e57e8e5947e10d4ebc)] -> id: menus_navlist] 
+2018-10-28 11:15:45,436 INFO  Browser is opened,Type is: firefox 
+2018-10-28 11:15:45,579 INFO  nannan-Select opetion in drop down list byindex 
+2018-10-28 11:15:45,699 INFO  2nan--is select in drop down list:[[FirefoxDriver: firefox on WINDOWS (482be6b4-25fa-4720-8691-5b4e06545f5e)] -> id: menus_navlist] 
+2018-10-28 11:15:45,712 INFO  nannan-Select opetion in drop down list byvalue 
+2018-10-28 11:15:45,790 INFO  usersnan--is select in drop down list:[[FirefoxDriver: firefox on WINDOWS (482be6b4-25fa-4720-8691-5b4e06545f5e)] -> id: menus_navlist] 
+2018-10-28 11:15:45,804 INFO  nannan-Select opetion in drop down list byvisibletext 
+2018-10-28 11:15:45,881 INFO  商店设置nan--is select in drop down list:[[FirefoxDriver: firefox on WINDOWS (482be6b4-25fa-4720-8691-5b4e06545f5e)] -> id: menus_navlist] 
+2018-10-28 11:23:36,734 INFO  Browser is opened,Type is: firefox 
+2018-10-28 11:23:36,910 INFO  nannan-Select opetion in drop down list byindex 
+2018-10-28 11:23:37,031 INFO  2nan--is select in drop down list:[[FirefoxDriver: firefox on WINDOWS (db34426b-6c60-422c-9ea0-a16fb26deb30)] -> id: menus_navlist] 
+2018-10-28 11:23:37,081 INFO  nannan-Select opetion in drop down list byvalue 
+2018-10-28 11:23:37,159 INFO  usersnan--is select in drop down list:[[FirefoxDriver: firefox on WINDOWS (db34426b-6c60-422c-9ea0-a16fb26deb30)] -> id: menus_navlist] 
+2018-10-28 11:23:37,204 INFO  nannan-Select opetion in drop down list byvisibletext 
+2018-10-28 11:23:37,284 INFO  商店设置nan--is select in drop down list:[[FirefoxDriver: firefox on WINDOWS (db34426b-6c60-422c-9ea0-a16fb26deb30)] -> id: menus_navlist] 
+2018-10-28 11:25:56,010 INFO  Browser is opened,Type is: firefox 
+2018-10-28 11:29:59,674 INFO  Browser is opened,Type is: firefox 
+2018-10-28 11:29:59,842 INFO  nannan-Select opetion in drop down list byindex 
+2018-10-28 11:29:59,957 INFO  2nan--is select in drop down list:[[FirefoxDriver: firefox on WINDOWS (6bee2d6b-28ce-4caa-a723-f2fe0b599055)] -> id: menus_navlist] 
+2018-10-28 11:30:00,005 INFO  nannan-Select opetion in drop down list byvalue 
+2018-10-28 11:30:00,081 INFO  usersnan--is select in drop down list:[[FirefoxDriver: firefox on WINDOWS (6bee2d6b-28ce-4caa-a723-f2fe0b599055)] -> id: menus_navlist] 
+2018-10-28 11:30:00,119 INFO  nannan-Select opetion in drop down list byvisibletext 
+2018-10-28 11:30:00,200 INFO  商店设置nan--is select in drop down list:[[FirefoxDriver: firefox on WINDOWS (6bee2d6b-28ce-4caa-a723-f2fe0b599055)] -> id: menus_navlist] 
+2018-10-28 13:40:19,773 INFO  Browser is opened,Type is: firefox 
+2018-10-28 13:40:20,073 INFO  The element is clicked. 
+2018-10-28 13:40:50,514 INFO  Browser is opened,Type is: firefox 
+2018-10-28 13:40:50,906 INFO  The element is clicked. 
+2018-10-28 13:41:24,586 INFO  Browser is opened,Type is: firefox 
+2018-10-28 13:41:24,962 INFO  The element is clicked. 
+2018-10-28 13:41:24,962 INFO  Execute JS:return document.readyState; 
+2018-10-28 13:41:24,962 INFO  JS arg1:[Ljava.lang.Object;@1a6518 
+2018-10-28 13:41:24,993 INFO  The page is loaded. 
+2018-10-28 13:46:14,620 INFO  Browser is opened,Type is: firefox 
+2018-10-28 13:46:15,023 INFO  The element is clicked. 
+2018-10-28 13:46:15,023 INFO  Execute JS:return document.readyState; 
+2018-10-28 13:46:15,023 INFO  JS arg1:[Ljava.lang.Object;@1a6518 
+2018-10-28 13:46:15,033 INFO  The page is loaded. 
+2018-10-28 13:46:15,033 INFO  The Page is complete/finish 
+2018-10-28 13:56:29,299 INFO  Browser is opened,Type is: firefox 
+2018-10-28 13:56:29,676 INFO  The element is clicked. 
+2018-10-28 13:56:29,676 INFO  Execute JS:return document.readyState; 
+2018-10-28 13:56:29,676 INFO  JS arg1:[Ljava.lang.Object;@15e0c2b 
+2018-10-28 13:56:29,684 INFO  The page is loaded. 
+2018-10-28 13:56:29,684 INFO  The Page is complete. 
+2018-10-28 13:56:29,818 INFO  张珊珊要睡觉觉了 is input to element. 
+2018-10-28 13:57:06,730 INFO  Browser is opened,Type is: firefox 
+2018-10-28 13:57:08,017 INFO  The element is clicked. 
+2018-10-28 13:57:08,017 INFO  Execute JS:return document.readyState; 
+2018-10-28 13:57:08,023 INFO  JS arg1:[Ljava.lang.Object;@ec898a 
+2018-10-28 13:57:08,025 INFO  The page is loaded. 
+2018-10-28 13:57:08,025 INFO  The Page is complete. 
+2018-10-28 13:57:11,148 INFO  张珊珊要睡觉觉了 is input to element. 
+2018-10-28 13:57:29,590 INFO  Browser is opened,Type is: firefox 
+2018-10-28 13:57:29,934 INFO  The element is clicked. 
+2018-10-28 13:57:29,934 INFO  Execute JS:return document.readyState; 
+2018-10-28 13:57:29,934 INFO  JS arg1:[Ljava.lang.Object;@19d3b3a 
+2018-10-28 13:57:29,944 INFO  The page is loaded. 
+2018-10-28 13:57:29,944 INFO  The Page is complete. 
+2018-10-28 13:57:35,100 INFO  Browser is opened,Type is: firefox 
+2018-10-28 13:57:36,419 INFO  The element is clicked. 
+2018-10-28 13:57:36,419 INFO  Execute JS:return document.readyState; 
+2018-10-28 13:57:36,419 INFO  JS arg1:[Ljava.lang.Object;@767286 
+2018-10-28 13:57:36,428 INFO  The page is loaded. 
+2018-10-28 13:57:36,428 INFO  The Page is complete. 
+2018-10-28 13:57:39,587 INFO  张珊珊要睡觉觉了 is input to element. 
+2018-10-28 13:58:47,424 INFO  Browser is opened,Type is: firefox 
+2018-10-28 13:58:48,753 INFO  The element is clicked. 
+2018-10-28 13:58:48,753 INFO  Execute JS:return document.readyState; 
+2018-10-28 13:58:48,753 INFO  JS arg1:[Ljava.lang.Object;@171194d 
+2018-10-28 13:58:48,762 INFO  The page is loaded. 
+2018-10-28 13:58:48,763 INFO  The Page is complete. 
+2018-10-28 13:59:21,853 ERROR Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 30.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf323ce037c5f92db6c1bba601c2ac43ad8', time: '2014-10-23 13:11:40'
+System info: host: 'GP9P0TFTYDRHH89', ip: '192.168.16.102', os.name: 'Windows Vista', os.arch: 'x86', os.version: '6.2', java.version: '1.6.0_13'
+Session ID: 4c2ce2b0-79aa-44bd-8431-74ff4d6edaf7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=33.1.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}] 
+2018-10-28 14:01:40,991 INFO  Browser is opened,Type is: firefox 
+2018-10-28 14:01:42,293 INFO  The element is clicked. 
+2018-10-28 14:01:42,293 INFO  Execute JS:return document.readyState; 
+2018-10-28 14:01:42,293 INFO  JS arg1:[Ljava.lang.Object;@13a0212 
+2018-10-28 14:01:42,304 INFO  The page is loaded. 
+2018-10-28 14:01:42,304 INFO  The Page is complete. 
+2018-10-28 14:02:15,439 ERROR element not such bading。。。 
+2018-10-28 14:02:15,440 ERROR Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 30.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf323ce037c5f92db6c1bba601c2ac43ad8', time: '2014-10-23 13:11:40'
+System info: host: 'GP9P0TFTYDRHH89', ip: '192.168.16.102', os.name: 'Windows Vista', os.arch: 'x86', os.version: '6.2', java.version: '1.6.0_13'
+Session ID: 7910e7e6-0492-45b8-ad40-3fc9f11aab4f
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=33.1.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}] 
+2018-10-28 17:09:54,036 INFO  Browser is opened,Type is: firefox 
+2018-10-28 17:09:54,140 INFO  Switched to default content. 
+2018-10-28 17:09:54,149 INFO  Switched to frame,idOrName:f1 
+2018-10-28 17:09:54,294 INFO  1234785 is input to element. 
+2018-10-28 17:09:54,304 INFO  Switched to default content. 
+2018-10-28 17:09:54,313 INFO  Switched to frame,idOrName:f2 
+2018-10-28 17:09:54,586 INFO  张珊珊 is input to element. 
+2018-10-28 17:12:23,729 INFO  Browser is opened,Type is: firefox 
+2018-10-28 17:12:23,834 INFO  Switched to default content. 
+2018-10-28 17:12:23,850 INFO  Switched to frame,idOrName:f1 
+2018-10-28 17:12:24,005 INFO  1234785 is input to element. 
+2018-10-28 17:12:24,014 INFO  Switched to default content. 
+2018-10-28 17:12:54,081 ERROR No frame to switch. 
+2018-10-28 17:24:03,240 INFO  Browser is opened,Type is: firefox 
+2018-10-28 17:24:03,349 INFO  Switched to default content. 
+2018-10-28 17:24:03,357 INFO  Switched to frame,index:0 
+2018-10-28 17:24:03,506 INFO  1234785 is input to element. 
+2018-10-28 17:24:03,517 INFO  Switched to default content. 
+2018-10-28 17:24:03,526 INFO  Switched to frame,index:1 
+2018-10-28 17:24:03,650 INFO  张珊珊 is input to element. 
+2018-10-28 17:53:10,226 INFO  Browser is opened,Type is: firefox 
+2018-10-28 17:53:10,337 INFO  Switched to default content. 
+2018-10-28 17:53:10,346 INFO  Switched to frame,index:0 
+2018-10-28 17:53:10,490 INFO  1234785 is input to element. 
+2018-10-28 17:53:10,503 INFO  Switched to default content. 
+2018-10-28 17:53:10,513 INFO  Switched to frame,index:1 
+2018-10-28 17:53:10,656 INFO  张珊珊 is input to element. 
+2018-10-28 17:53:15,902 INFO  Browser is opened,Type is: firefox 
+2018-10-28 17:53:16,083 INFO  Switched to default content. 
+2018-10-28 17:53:16,093 INFO  Switched to frame. 
+2018-10-28 17:53:16,221 INFO  1234785 is input to element. 
+2018-10-28 17:53:16,231 INFO  Switched to default content. 
+2018-10-28 17:53:16,325 INFO  Switched to default content. 
+2018-10-28 17:53:16,336 INFO  Switched to frame. 
+2018-10-28 17:53:16,438 INFO  张珊珊 is input to element. 
+2018-10-28 17:53:36,547 INFO  Browser is opened,Type is: firefox 
+2018-10-28 17:53:36,749 INFO  Switched to default content. 
+2018-10-28 17:53:36,759 INFO  Switched to frame. 
+2018-10-28 17:53:36,889 INFO  1234785 is input to element. 
+2018-10-28 17:53:36,898 INFO  Switched to default content. 
+2018-10-28 17:53:36,987 INFO  Switched to default content. 
+2018-10-28 17:53:36,997 INFO  Switched to frame. 
+2018-10-28 17:53:37,095 INFO  张珊珊 is input to element. 
+2018-10-28 17:54:48,494 INFO  Browser is opened,Type is: firefox 
+2018-10-28 17:54:48,715 INFO  Switched to default content. 
+2018-10-28 17:54:48,723 INFO  Switched to frame. 
+2018-10-28 17:54:48,848 INFO  1234785 is input to element. 
+2018-10-28 18:10:39,043 INFO  Browser is opened,Type is: firefox 
+2018-10-28 18:10:39,151 INFO  Switched to default content. 
+2018-10-28 18:10:39,192 INFO  Switched to default content. 
+2018-10-28 18:10:39,202 INFO  Switched to frame,index:0 
+2018-10-28 18:10:39,211 INFO  Switch to frame contains:input1 
+2018-10-28 18:10:39,342 INFO  1234785 is input to element. 
+2018-10-28 18:10:39,353 INFO  Switched to default content. 
+2018-10-28 18:10:39,371 INFO  Switched to default content. 
+2018-10-28 18:10:39,379 INFO  Switched to frame,index:0 
+2018-10-28 18:10:39,431 INFO  Switched to default content. 
+2018-10-28 18:10:39,442 INFO  Switched to frame,index:1 
+2018-10-28 18:10:39,450 INFO  Switch to frame contains:input2 
+2018-10-28 18:10:39,540 INFO  张珊珊 is input to element. 
+2018-10-28 18:11:06,406 INFO  Browser is opened,Type is: firefox 
+2018-10-28 18:11:06,544 INFO  Switched to default content. 
+2018-10-28 18:11:06,552 INFO  Switched to frame,index:0 
+2018-10-28 18:11:06,561 INFO  Switch to frame contains:input1 
+2018-10-28 18:11:06,692 INFO  1234785 is input to element. 
+2018-10-28 18:11:36,712 ERROR No frame to switch. 
+2018-10-28 18:17:07,530 INFO  Browser is opened,Type is: firefox 
+2018-10-28 18:17:07,639 INFO  Switched to default content. 
+2018-10-28 18:17:07,675 INFO  Switched to default content. 
+2018-10-28 18:17:07,675 INFO  Switched to frame,index:0 
+2018-10-28 18:17:07,697 INFO  Switch to frame contains:input1 
+2018-10-28 18:17:07,832 INFO  1234785 is input to element. 
+2018-10-28 18:17:07,843 INFO  Switched to default content. 
+2018-10-28 18:17:07,858 INFO  Switched to default content. 
+2018-10-28 18:17:07,858 INFO  Switched to frame,index:0 
+2018-10-28 18:17:07,920 INFO  Switched to default content. 
+2018-10-28 18:17:07,931 INFO  Switched to frame,index:1 
+2018-10-28 18:17:07,938 INFO  Switch to frame contains:input2 
+2018-10-28 18:17:08,040 INFO  张珊珊 is input to element. 
+2018-10-29 22:44:13,791 INFO  Browser is opened,Type is: firefox 
+2018-10-29 22:44:35,530 INFO  Browser is opened,Type is: firefox 
+2018-10-29 22:45:03,310 INFO  Browser is opened,Type is: firefox 
+2018-10-29 22:46:05,646 INFO  Browser is opened,Type is: firefox 
+2018-10-29 22:48:42,411 INFO  Browser is opened,Type is: firefox 
+2018-10-29 22:48:44,117 INFO  Switch window by title value 
+2018-10-29 22:48:44,117 INFO  Switch to target window. 
+2018-10-29 22:52:02,746 INFO  Browser is opened,Type is: firefox 
+2018-10-29 22:52:04,390 INFO  Switch window by title value 
+2018-10-29 22:52:04,390 INFO  Switch to target window. 
+2018-10-29 22:52:07,494 INFO  Switch window by page source value 
+2018-10-29 22:52:07,494 INFO  Switch to target window. 
+2018-10-29 22:53:45,174 INFO  Browser is opened,Type is: firefox 
+2018-10-29 22:53:46,813 INFO  Switch window by title value 
+2018-10-29 22:53:46,813 INFO  Switch to target window. 
+2018-10-29 22:53:49,904 INFO  Switch window by page source value 
+2018-10-29 22:53:49,904 INFO  Switch to target window. 
+2018-10-29 22:57:37,168 INFO  Browser is opened,Type is: firefox 
+2018-10-29 22:57:38,787 INFO  Switch window by title value 
+2018-10-29 22:57:38,787 INFO  Switch to target window. 
+2018-10-29 22:57:41,876 INFO  Switch window by page source value 
+2018-10-29 22:57:41,876 INFO  Switch to target window. 
+2018-10-30 21:44:13,202 INFO  Browser is opened,Type is: firefox 
+2018-10-30 21:44:42,840 INFO  Browser is opened,Type is: firefox 
+2018-10-30 21:48:44,436 INFO  Browser is opened,Type is: firefox 
+2018-10-30 21:50:31,697 INFO  Browser is opened,Type is: firefox 
+2018-10-30 21:50:34,033 ERROR The window cannot be found:windName11 

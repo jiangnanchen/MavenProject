@@ -1,0 +1,15 @@
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="com.jiangnan.NewTest1"/>
+      
+       <class name="com.jiangnan.NewTest1"/>
+       <class name="com.jiangnan.NewTest1"/>
+       <class name="com.jiangnan.NewTest1"/>
+       <class name="com.jiangnan.NewTest1"/>
+       <class name="com.jiangnan.AppTest"/>
+       <class name="com.jiangnan.App1Test"/>
+       <class name="com.jiangnan.NewTest"/>
+    </classes>
+  </test>
+</suite>
