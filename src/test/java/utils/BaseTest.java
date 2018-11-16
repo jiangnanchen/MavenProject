@@ -12,7 +12,7 @@ public class BaseTest {
 	  /**
 	   * ²âÊÔÌ×¼şÓÃ
 	   */
-	  sysotem.print
+	  
 	 /* @BeforeMethod
 	  @Parameters({"browser"})
 	  public void beforeMethod(String b) {
