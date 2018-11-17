@@ -10,10 +10,4 @@
       <class name="ecshop.tc.TestAdvancedSearch"/>
     </classes>
   </test>
-  <test name="TestChrome">
-  	<parameter name="browser" value="chrome"/>
-    <classes>
-      <class name="ecshop.tc.TestAdvancedSearch"/>
-    </classes>
-  </test>
 </suite>

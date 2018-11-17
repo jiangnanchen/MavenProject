@@ -23,9 +23,9 @@ public class BaseTest {
 	  
 	  @BeforeMethod
 	  @Parameters({"browser"})
-	  public void beforeMethod() {
+	  public void beforeMethod(String b) {
 
-		  driver = Utils.openBrowser("chrome");
+		  driver = Utils.openBrowser(b);
 		  
 	  }
 
