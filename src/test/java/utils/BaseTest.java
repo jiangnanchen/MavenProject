@@ -10,7 +10,7 @@ import ecshop.page.AdvancedSearchpage;
 public class BaseTest {
 	  public WebDriver driver;
 	  /**
-	   * ²âÊÔÌ×¼şÓÃ
+	   * testsuit
 	   */
 	  
 	 /* @BeforeMethod
