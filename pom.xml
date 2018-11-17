@@ -121,6 +121,7 @@
           <version>3.1</version>
           <configuration>
           	<fork>true</fork>
+          	<encoding>utf-8</encoding>
           	<source>1.6</source>
           	<target>1.6</target>
           </configuration>
@@ -137,6 +138,7 @@
                 <!--  <suiteXmlFile>src/test/java/com/jiangnan/testng.xml</suiteXmlFile>-->
           		 <suiteXmlFile>src/test/java/ecshop/testng.xml</suiteXmlFile>
           		</suiteXmlFiles>
+          		<encoding>utf-8</encoding>
           </configuration>
          
         </plugin>
